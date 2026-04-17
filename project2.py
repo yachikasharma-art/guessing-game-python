@@ -30,3 +30,4 @@ def game():
         game()
     else:
         print("\nBye! Thanks for playing 👋")
+game()
